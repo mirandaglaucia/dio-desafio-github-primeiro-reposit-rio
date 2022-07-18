@@ -17,10 +17,10 @@ Repositório criado para o Desafio do Projeto.
 
 **Ingredientes da Cobertura**
 
-*1 colher (sopa) de manteiga*
-*3 colheres (sopa) de chocolate em pó*
-*1 xícara (chá) de açúcar*
-*1 xícara (chá) de leite*
+*1 colher (sopa) de manteiga*<br>
+*3 colheres (sopa) de chocolate em pó*<br>
+*1 xícara (chá) de açúcar*<br>
+*1 xícara (chá) de leite*<br>
 
 **Modo de Preparo da Massa**
 
