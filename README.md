@@ -8,7 +8,7 @@ Repositório criado para o Desafio do Projeto.
 
 **Ingredientes da Massa**
 
-*1/2 xícara (chá) de óleo*
+*1/2 xícara (chá) de óleo*<br>
 *3 cenouras médias raladas*
 *4 ovos*
 *2 xícaras (chá) de açúcar*
