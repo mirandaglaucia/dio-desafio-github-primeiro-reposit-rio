@@ -35,5 +35,7 @@ Repositório criado para o Desafio do Projeto.
 1. Despeje em uma tigela a manteiga, o chocolate em pó, o açúcar e o leite, depois misture.<br>
 2. Leve a mistura ao fogo e continue misturando até obter uma consistência cremosa, depois despeje a calda por cima do bolo.<br>
 
+[Receita retirada neste site](https://www.tudogostoso.com.br/receita/23-bolo-de-cenoura.html)
+
 
 
