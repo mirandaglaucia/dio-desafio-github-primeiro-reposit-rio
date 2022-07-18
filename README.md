@@ -8,12 +8,12 @@ Repositório criado para o Desafio do Projeto.
 
 **Ingredientes da Massa**
 
-*1/2 xícara (chá) de óleo*<br>
-*3 cenouras médias raladas*
-*4 ovos*
-*2 xícaras (chá) de açúcar*
-*2 e 1/2 xícaras (chá) de farinha de trigo*
-*1 colher (sopa) de fermento em pó*
+*1/2 xícara (chá) de óleo<br>
+*3 cenouras médias raladas<br>
+*4 ovos<br>
+*2 xícaras (chá) de açúcar<br>
+*2 e 1/2 xícaras (chá) de farinha de trigo<br>
+*1 colher (sopa) de fermento em pó<br>
 
 **Ingredientes da Cobertura**
 
